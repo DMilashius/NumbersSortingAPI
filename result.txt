@@ -1,0 +1,2 @@
+Selection Sort Algorithm: -8 -5 1 20 45 100. Time wasn't measured
+Bubble Sort Algorithm: -8 -5 1 20 45 100. Algorithm duration: 0.0006 ms.
